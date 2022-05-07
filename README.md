@@ -1,15 +1,14 @@
 # Student Management System Created Using Django
-This is a Simple Student Management System Developed While Learning Django.
-Feel free to make changes based on your requirements.
+This is a Student Management System made using Django as Mini-Project for 3rd Semester by team ____
+
+## Team members
+1. Aman Gupta
+2. Gurvinder Singh Yadav
+3. Ripudaman N Singh
+4. Ketan Bhadwariya
 
 [Front-end Template](http://adminlte.io "Admin LTE.io")
 
-
-[Project Demo on YouTube](https://www.youtube.com/watch?v=kArCR96m7uo "Django Student Management System Demo")
-
-And if you like this project, then ADD a STAR ⭐️  to this project 👆
-## Deployed to
-https://smswithdjango.herokuapp.com/
 
 
 ## Features of this Project
